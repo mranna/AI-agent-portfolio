@@ -44,13 +44,9 @@ This portfolio showcases a collection of **AI-powered agents** designed to enhan
 
 ## 🛠️ Technologies
 
-- **AI-powered agents**  
+- **AI-powered agents with MindStudio**  
 - **Natural Language Processing (NLP)**  
 - **Content Generation**  
 - **Automated Communication**  
 
 ---
-
-## 📬 Contact
-
-For more information, please reach out to the portfolio owner.  
